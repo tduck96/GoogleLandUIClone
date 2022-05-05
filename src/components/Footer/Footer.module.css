@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 240, 240);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    color: gray;
+
+}
+.linkCont  {
+    
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem; 
+    flex-wrap: wrap;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+
+.para {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.para:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a {
+    color: gray;
+}
+.leaf {
+    width: 14.5px;
+    height: 18px;
+}
