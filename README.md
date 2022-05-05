@@ -1,4 +1,4 @@
-# GoogleLandUIClone
+# Google Landing Page UI Clone
 
 Simple UI clone of Google landing page. For kicks.
 
