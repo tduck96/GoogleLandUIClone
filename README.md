@@ -1,6 +1,6 @@
 # Google Landing Page UI Clone
 
-Simple UI clone of Google landing page. For kicks.
+Simple UI clone of Google landing page. For kicks. To Learn how to arrange files within React framework  
 
 Clone
 https://user-images.githubusercontent.com/98187423/167023034-2f776779-ddb1-43a1-a11a-235b4803a759.mov
